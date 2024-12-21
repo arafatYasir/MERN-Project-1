@@ -333,3 +333,60 @@ nav {
     color: #289BDE;
     font-weight: 700;
 }
+
+/* Mission and Vision section */
+#mission .container {
+    display: flex;
+    margin-top: 140px;
+    gap: 125px;
+}
+
+#mission .section-info {
+    width: 555px;
+}
+
+#mission .section-image {
+    width: 662px;
+    height: 518px;
+}
+
+#mission .section-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #071B27;
+}
+
+#mission .mission-part {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    margin: 58px 0 25px 0;
+}
+
+#mission .mission-part h3 {
+    color: #071B27;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#mission .mission-part p {
+    color: #666;
+    line-height: 27px;
+}
+
+#mission .vision-part {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+#mission .vision-part h3 {
+    color: #071B27;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#mission .vision-part p {
+    color: #666;
+    line-height: 27px;
+}
