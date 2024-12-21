@@ -456,3 +456,109 @@ nav {
     align-items: center;
     gap: 14px;
 }
+
+/* Global Community section */
+#community {
+    margin-top: 144px;
+}
+
+#community .section-info {
+    max-width: 855px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#community .section-info h3 {
+    color: #289BDE;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#community .section-info .section-title {
+    color: #071B27;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#community .section-info .section-description {
+    width: 622px;
+    font-size: 20px;
+    color: #666;
+    margin: 0 auto;
+}
+
+.community-wrapper {
+    margin-top: 60px;
+}
+
+.community-wrapper .join-community,
+.join-club {
+    /* width: 440px; */
+}
+
+#community .join-community .heading,
+.join-club .heading {
+    display: flex;
+    align-items: flex-end;
+    gap: 8px;
+}
+
+.join-community .heading h1,
+.join-club .heading h1 {
+    text-decoration: underline;
+    color: #071B27;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.community-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.community-wrapper .list-items {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.community-wrapper .list-items .item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.community-wrapper .list-items .item h3 {
+    color: #071B27;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.community-wrapper .list-items .item p {
+    color: #666;
+    font-size: 17px;
+    margin-top: 9px;
+    max-width: 405px;
+}
+
+.join-btn {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.join-btn button {
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    background: #289BDE;
+    border: 0;
+    border-radius: 5px;
+    padding: 14px 28px;
+    margin-bottom: 20px;
+}
+
+.join-btn button:hover {
+    cursor: pointer;
+}
