@@ -80,3 +80,108 @@ nav {
     background: #289BDE;
     cursor: pointer;
 }
+
+/* Banner section */
+.banner {
+    text-align: center;
+    margin-top: 220px;
+    position: relative;
+}
+
+.banner-title {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.banner-subtitle {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.banner .buttons {
+    display: flex;
+    gap: 24px;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.banner .buttons button {
+    font-size: 20px;
+    color: #fff;
+    padding: 20px 30px;
+    background: #071B27;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.banner .buttons button:hover {
+    background: #289BDE;
+    cursor: pointer;
+}
+
+.banner .background-image-1 {
+    width: 385px;
+    height: 245px;
+    position: absolute;
+    left: 70px;
+    top: 25px;
+}
+
+.banner .background-image-2 {
+    width: 385px;
+    height: 245px;
+    position: absolute;
+    right: 70px;
+    top: 25px;
+}
+
+.banner-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+
+#banner-cards {
+    margin: -250px 40px 130px 40px;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-item1 {
+    width: 343px;
+    height: 432px;
+    border-radius: 15px;
+}
+
+.card-item2 {
+    width: 417px;
+    height: 281px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.card-item2 .item-child1 {
+    width: 234.386px;
+    height: 281.263px;
+    border-radius: 12px;
+}
+
+.card-item2 .item-child2 {
+    width: 299.493px;
+    height: 140.632px;
+    position: absolute;
+    top: -70px;
+    left: 117px;
+}
+
+
+.card-item3 {
+    width: 445.333px;
+    height: 385.435px;
+    border-radius: 12px;
+}
