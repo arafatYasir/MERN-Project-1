@@ -683,3 +683,122 @@ nav {
     border: 0;
     border-radius: 10px;
 }
+
+/* Footer section */
+#footer {
+    background: #289BDE;
+    height: 735px;
+    padding: 75px 0;
+    margin-top: 140px;
+    position: relative;
+}
+
+#footer .section-info {
+    width: 850px;
+    height: 444px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 10px;
+    padding-top: 70px;
+    margin-bottom: 70px;
+}
+
+#footer .info-container {
+    max-width: 590px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#footer .info-container .section-description {
+    width: 544px;
+    margin: 0 auto;
+}
+
+#footer .section-title {
+    color: #071B27;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+#footer .section-info h3 {
+    color: #071B27;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 12px;
+}
+
+#footer .section-description {
+    font-size: 18px;
+    color: #666;
+    line-height: 32px;
+    margin-top: 12px;
+}
+
+#footer .contact-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+}
+
+#footer .contact-wrapper div {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.contact-wrapper div p {
+    color: #666;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#footer .info-container button {
+    padding: 13px 28px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border-radius: 5px;
+    background-color: #289BDE;
+    margin-top: 40px;
+}
+
+#footer .info-container button:hover {
+    cursor: pointer;
+}
+
+#footer .logo {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 0;
+}
+
+#footer .privacy {
+    display: flex;
+    gap: 17px;
+}
+
+.footer-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#footer .footer-info a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#footer .icons {
+    display: flex;
+    align-items: center;
+}
+
+.footer-background-image {
+    position: absolute;
+    top: 122px;
+}
