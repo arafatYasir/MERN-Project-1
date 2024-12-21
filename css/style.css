@@ -185,3 +185,151 @@ nav {
     height: 385.435px;
     border-radius: 12px;
 }
+
+
+/* About us section */
+.about-info {
+    max-width: 610px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.about-info h4 {
+    color: #289BDE;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.about-info h1 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.about-info p {
+    font-size: 20px;
+    color: #666;
+}
+
+.about-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.about-wrapper .item-child:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.about-wrapper .item-child {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.about-wrapper .item-child .cover-image {
+    width: 455px;
+    height: 485px;
+}
+
+.about-wrapper .item-child .texts {
+    width: 785px;
+}
+
+.about-wrapper .item-child .texts h1 {
+    color: #07003B;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.about-wrapper .item-child .texts p {
+    font-size: 20px;
+    color: #666;
+    line-height: 40px;
+}
+
+.about-wrapper .item-child .texts p>span {
+    font-weight: 700;
+    color: #289BDE;
+}
+
+/* Services section */
+#services {
+    background: #071B27;
+    height: 1200px;
+    padding: 157px;
+    margin-top: 140px;
+}
+
+#services .section-info p {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+
+#services .section-info h3 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.card-wrapper {
+    margin-top: 60px;
+    display: flex;
+    gap: 40px;
+}
+
+.card-wrapper .card {
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+    color: #fff;
+    background: rgba(255, 255, 255, 10%);
+}
+
+.card-wrapper .card {
+    width: 564px;
+    height: 938px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    padding: 40px;
+}
+
+.card .card-image {
+    height: 445px;
+    border-radius: 5px;
+}
+
+.card-info .card-title {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.card-info .card-heading {
+    display: flex;
+    gap: 10px;
+}
+
+.card-info .list-items {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 24px;
+    font-size: 20px;
+}
+
+.card-info .list-items div {
+    display: flex;
+    align-items: flex-start;
+    gap: 17px;
+}
+
+.card-info .list-items div img {
+    margin-top: 5px;
+}
+
+.card-info strong {
+    color: #289BDE;
+    font-weight: 700;
+}
