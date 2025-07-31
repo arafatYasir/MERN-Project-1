@@ -24,7 +24,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 15px;
+    padding-top: 15px;
 }
 
 .nav-logo {
@@ -802,3 +802,5 @@ nav {
     position: absolute;
     top: 122px;
 }
+
+

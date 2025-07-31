@@ -1,0 +1,278 @@
+/* ----Screen Size Up to 575px---- */
+@media screen and (max-width: 575px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    header {
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    /* ----Navbar---- */
+    nav {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        column-gap: 15px;
+        max-width: 85%;
+        row-gap: 10px;
+        margin: 0 auto;
+    }
+
+    /* ----Banner Section---- */
+    .banner {
+        margin-top: 80px;
+    }
+
+    .background-image-1,
+    .background-image-2 {
+        display: none;
+    }
+
+    .banner-subtitle {
+        font-size: 20px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+    }
+
+    .banner .buttons {
+        gap: 14px;
+        /* justify-content: space-between; */
+    }
+
+    .banner .buttons button {
+        font-size: 16px;
+        padding: 14px 20px;
+    }
+}
+
+
+/* ----Screen Size Up to 768px---- */
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    header {
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    /* ----Navbar---- */
+    nav {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        column-gap: 15px;
+    }
+
+    /* ----Banner Section---- */
+    .banner {
+        margin-top: 80px;
+    }
+
+    .background-image-1,
+    .background-image-2 {
+        display: none;
+    }
+
+    .banner-subtitle {
+        font-size: 20px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+    }
+
+    .banner .buttons button {
+        font-size: 16px;
+        padding: 14px 20px;
+    }
+}
+
+
+/* ----Screen Size Up to 992px---- */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    header {
+        height: auto;
+        padding-bottom: 70px;
+    }
+
+    /* ----Navbar---- */
+    nav .buttons .btn-2 {
+        padding: 10px 24px;
+    }
+
+    nav .buttons {
+        gap: 10px;
+    }
+
+    .nav-logo {
+        font-size: 24px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        column-gap: 15px;
+    }
+
+    .nav-links li {
+        font-size: 12px;
+    }
+
+    /* ----Banner Section---- */
+    .banner {
+        margin-top: 80px;
+    }
+
+    .background-image-1,
+    .background-image-2 {
+        display: none;
+    }
+
+    .banner-subtitle {
+        font-size: 20px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+    }
+
+    .banner .buttons button {
+        font-size: 16px;
+        padding: 14px 20px;
+    }
+}
+
+
+/* ----Screen Size Up to 1200px---- */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    header {
+        height: auto;
+        padding-bottom: 80px;
+    }
+
+    /* ----Navbar---- */
+    nav .buttons .btn-2 {
+        padding: 10px 24px;
+    }
+
+    .nav-logo {
+        font-size: 30px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        column-gap: 15px;
+    }
+
+    .nav-links li {
+        font-size: 14px;
+    }
+
+    /* ----Banner Section---- */
+    .banner {
+        margin-top: 80px;
+    }
+
+    .background-image-1,
+    .background-image-2 {
+        width: 250px !important;
+        height: 150px !important;
+    }
+
+    .background-image-1 {
+        left: 35px !important;
+    }
+
+    .background-image-2 {
+        right: 35px !important;
+    }
+
+    .banner-subtitle {
+        font-size: 20px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+    }
+
+    .banner .buttons button {
+        font-size: 16px;
+        padding: 14px 20px;
+    }
+}
+
+
+
+/* ----Screen Size Up to 1400px---- */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    header {
+        height: auto;
+        padding-bottom: 120px;
+    }
+
+    /* ----Navbar---- */
+    .nav-logo {
+        font-size: 40px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        column-gap: 15px;
+    }
+
+    .nav-links li {
+        font-size: 16px;
+    }
+
+    /* ----Banner Section---- */
+    .banner {
+        margin-top: 80px;
+    }
+
+    .background-image-1,
+    .background-image-2 {
+        width: 280px !important;
+        height: 190px !important;
+    }
+
+    .banner-subtitle {
+        font-size: 20px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+    }
+
+    .banner .buttons button {
+        font-size: 16px;
+        padding: 14px 20px;
+    }
+}
