@@ -210,6 +210,48 @@
     .join-community .heading h1, .join-club .heading h1 {
         font-size: 20px;
     }
+
+    /* ----Contact Section---- */
+    .contact-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #contact .section-info h3 {
+        font-size: 18px;
+    }
+
+    #contact .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #contact .section-info .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .contact-wrapper .wrapper-info .heading {
+        font-size: 30px;
+    }
+
+    .contact-wrapper .wrapper-info .description {
+        font-size: 17px;
+    }
+
+    .wrapper-form .heading {
+        font-size: 30px;
+    }
+
+    .wrapper-form input {
+        width: 100%;
+    }
+    
+    .contact-wrapper .wrapper-form {
+        width: 100%;
+    }
+    .wrapper-form form {
+        width: 100%;
+    }
 }
 
 
@@ -408,6 +450,48 @@
 
     .join-community .heading h1, .join-club .heading h1 {
         font-size: 24px;
+    }
+
+    /* ----Contact Section---- */
+    .contact-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #contact .section-info h3 {
+        font-size: 18px;
+    }
+
+    #contact .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #contact .section-info .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .contact-wrapper .wrapper-info .heading {
+        font-size: 30px;
+    }
+
+    .contact-wrapper .wrapper-info .description {
+        font-size: 17px;
+    }
+
+    .wrapper-form .heading {
+        font-size: 30px;
+    }
+
+    .wrapper-form input {
+        width: 100%;
+    }
+    
+    .contact-wrapper .wrapper-form {
+        width: 100%;
+    }
+    .wrapper-form form {
+        width: 100%;
     }
 }
 
@@ -615,6 +699,48 @@
 
     #community .join-community .heading, .join-club .heading {
         align-items: center;
+    }
+
+    /* ----Contact Section---- */
+    .contact-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #contact .section-info h3 {
+        font-size: 18px;
+    }
+
+    #contact .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #contact .section-info .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .contact-wrapper .wrapper-info .heading {
+        font-size: 30px;
+    }
+
+    .contact-wrapper .wrapper-info .description {
+        font-size: 17px;
+    }
+
+    .wrapper-form .heading {
+        font-size: 30px;
+    }
+
+    .wrapper-form input {
+        width: 100%;
+    }
+    
+    .contact-wrapper .wrapper-form {
+        width: 100%;
+    }
+    .wrapper-form form {
+        width: 100%;
     }
 }
 

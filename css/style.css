@@ -635,7 +635,7 @@ nav {
 }
 
 .contact-wrapper .wrapper-form {
-    width: 500px;
+    max-width: 500px;
     height: 692px;
     -webkit-box-shadow: 0px 4px 60px 0px rgba(0, 0, 0, 0.08);
     -moz-box-shadow: 0px 4px 60px 0px rgba(0, 0, 0, 0.08);
