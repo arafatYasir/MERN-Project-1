@@ -343,7 +343,7 @@ nav {
 }
 
 #mission .section-info {
-    width: 555px;
+    max-width: 555px;
 }
 
 #mission .section-image {
