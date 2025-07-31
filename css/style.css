@@ -258,7 +258,6 @@ nav {
 /* Services section */
 #services {
     background: #071B27;
-    height: 1200px;
     padding: 157px;
     margin-top: 140px;
 }
@@ -290,8 +289,6 @@ nav {
 }
 
 .card-wrapper .card {
-    width: 564px;
-    height: 938px;
     border: 1px solid #fff;
     border-radius: 8px;
     padding: 40px;
@@ -687,10 +684,8 @@ nav {
 /* Footer section */
 #footer {
     background: #289BDE;
-    height: 735px;
     padding: 75px 0;
     margin-top: 140px;
-    position: relative;
 }
 
 #footer .section-info {
