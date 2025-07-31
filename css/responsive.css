@@ -165,6 +165,23 @@
     #mission .section-image img {
         width: 100%;
     }
+
+    /* ----Testimonials Section---- */
+    #testimonials .section-info h3 {
+        font-size: 18px;
+    }
+
+    #testimonials .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #testimonials .section-info .section-description {
+        font-size: 16px;
+    }
+
+    .testimonials-wrapper {
+        justify-content: center;
+    }
 }
 
 
@@ -319,6 +336,23 @@
 
     #mission .section-image img {
         width: 100%;
+    }
+
+    /* ----Testimonials Section---- */
+    #testimonials .section-info h3 {
+        font-size: 18px;
+    }
+
+    #testimonials .section-info .section-title {
+        font-size: 28px;
+    }
+
+    #testimonials .section-info .section-description {
+        font-size: 16px;
+    }
+
+    .testimonials-wrapper {
+        justify-content: center;
     }
 }
 
@@ -485,6 +519,25 @@
     #mission .section-image img {
         width: 100%;
     }
+
+
+    /* ----Testimonials Section---- */
+    #testimonials .section-info h3 {
+        font-size: 18px;
+    }
+
+    #testimonials .section-info .section-title {
+        font-size: 30px;
+    }
+
+    #testimonials .section-info .section-description {
+        font-size: 16px;
+    }
+
+    .testimonials-wrapper {
+        justify-content: center;
+        column-gap: 16px;
+    }
 }
 
 
@@ -643,6 +696,13 @@
     #mission .section-image img {
         width: 100%;
     }
+
+
+    /* ----Testimonials Section---- */
+    .testimonials-wrapper {
+        justify-content: center;
+        column-gap: 16px;
+    }
 }
 
 
@@ -749,5 +809,23 @@
 
     #mission .section-image img {
         width: 100%;
+    }
+
+    * ----Testimonials Section---- */
+    #testimonials .section-info h3 {
+        font-size: 18px;
+    }
+
+    #testimonials .section-info .section-title {
+        font-size: 30px;
+    }
+
+    #testimonials .section-info .section-description {
+        font-size: 16px;
+    }
+
+    .testimonials-wrapper {
+        justify-content: center;
+        column-gap: 24px;
     }
 }
