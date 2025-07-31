@@ -149,10 +149,11 @@ nav {
 
 .cards {
     display: flex;
-    justify-content: space-between;
+    gap: 40px;
+    justify-content: center;
 }
 
-.card-item1 {
+.card-item1 img {
     width: 343px;
     height: 432px;
     border-radius: 15px;
@@ -180,7 +181,7 @@ nav {
 }
 
 
-.card-item3 {
+.card-item3 img {
     width: 445.333px;
     height: 385.435px;
     border-radius: 12px;

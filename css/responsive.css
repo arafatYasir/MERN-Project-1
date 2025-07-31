@@ -51,6 +51,11 @@
         font-size: 16px;
         padding: 14px 20px;
     }
+
+    /* ----Banner Cards Section---- */
+    #banner-cards {
+        display: none;
+    }
 }
 
 
@@ -98,6 +103,11 @@
     .banner .buttons button {
         font-size: 16px;
         padding: 14px 20px;
+    }
+
+    /* ----Banner Cards Section---- */
+    #banner-cards {
+        display: none;
     }
 }
 
@@ -158,6 +168,11 @@
         font-size: 16px;
         padding: 14px 20px;
     }
+
+    /* ----Banner Cards Section---- */
+    #banner-cards {
+        display: none;
+    }
 }
 
 
@@ -170,7 +185,7 @@
 
     header {
         height: auto;
-        padding-bottom: 80px;
+        padding-bottom: 120px;
     }
 
     /* ----Navbar---- */
@@ -198,8 +213,8 @@
 
     .background-image-1,
     .background-image-2 {
-        width: 250px !important;
-        height: 150px !important;
+        width: 220px !important;
+        height: 120px !important;
     }
 
     .background-image-1 {
@@ -222,6 +237,30 @@
         font-size: 16px;
         padding: 14px 20px;
     }
+
+    /* ----Banner Cards Section---- */
+    #banner-cards {
+        margin: -100px 0 0 0;
+    }
+
+    .cards {
+        gap: 30px;
+    }
+
+    .card-item1 img {
+        width: 230px;
+        height: 300px;
+    }
+
+    .card-item2 img {
+        width: 230px;
+    }
+
+    .card-item3 img {
+        width: 270px;
+        height: 270px;
+        margin-left: -100px;
+    }
 }
 
 
@@ -235,7 +274,7 @@
 
     header {
         height: auto;
-        padding-bottom: 120px;
+        padding-bottom: 240px;
     }
 
     /* ----Navbar---- */
@@ -274,5 +313,28 @@
     .banner .buttons button {
         font-size: 16px;
         padding: 14px 20px;
+    }
+
+    /* ----Banner Cards Section---- */
+    #banner-cards {
+        margin: -180px 0 0 0;
+    }
+
+    .cards {
+        gap: 30px;
+    }
+
+    .card-item1 img {
+        width: 320px;
+        height: 400px;
+    }
+
+    .card-item2 img {
+        width: 300px;
+    }
+
+    .card-item3 img {
+        width: 370px;
+        height: 370px;
     }
 }
