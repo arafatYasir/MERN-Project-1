@@ -182,6 +182,34 @@
     .testimonials-wrapper {
         justify-content: center;
     }
+
+
+    /* ----Community Section---- */
+    .community-wrapper {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    #community .section-info h3 {
+        font-size: 18px;
+    }
+
+    #community .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #community .section-info .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #community .join-community .heading, .join-club .heading {
+        align-items: center;
+    }
+
+    .join-community .heading h1, .join-club .heading h1 {
+        font-size: 20px;
+    }
 }
 
 
@@ -353,6 +381,33 @@
 
     .testimonials-wrapper {
         justify-content: center;
+    }
+
+     /* ----Community Section---- */
+    .community-wrapper {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    #community .section-info h3 {
+        font-size: 18px;
+    }
+
+    #community .section-info .section-title {
+        font-size: 24px;
+    }
+
+    #community .section-info .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #community .join-community .heading, .join-club .heading {
+        align-items: center;
+    }
+
+    .join-community .heading h1, .join-club .heading h1 {
+        font-size: 24px;
     }
 }
 
@@ -538,6 +593,29 @@
         justify-content: center;
         column-gap: 16px;
     }
+
+    /* ----Community Section---- */
+    .community-wrapper {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    #community .section-info h3 {
+        font-size: 20px;
+    }
+
+    #community .section-info .section-title {
+        font-size: 30px;
+    }
+
+    #community .section-info .section-description {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    #community .join-community .heading, .join-club .heading {
+        align-items: center;
+    }
 }
 
 
@@ -703,6 +781,29 @@
         justify-content: center;
         column-gap: 16px;
     }
+
+    /* ----Community Section---- */
+    .community-wrapper {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    #community .section-info h3 {
+        font-size: 20px;
+    }
+
+    #community .section-info .section-title {
+        font-size: 30px;
+    }
+
+    #community .section-info .section-description {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    #community .join-community .heading, .join-club .heading {
+        align-items: center;
+    }
 }
 
 
@@ -827,5 +928,26 @@
     .testimonials-wrapper {
         justify-content: center;
         column-gap: 24px;
+    }
+
+    /* ----Community Section---- */
+    .community-wrapper {
+        gap: 20px;
+    }
+    #community .section-info h3 {
+        font-size: 20px;
+    }
+
+    #community .section-info .section-title {
+        font-size: 30px;
+    }
+
+    #community .section-info .section-description {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    #community .join-community .heading, .join-club .heading {
+        align-items: center;
     }
 }

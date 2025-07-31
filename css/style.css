@@ -481,7 +481,7 @@ nav {
 }
 
 #community .section-info .section-description {
-    width: 622px;
+    max-width: 622px;
     font-size: 20px;
     color: #666;
     margin: 0 auto;
