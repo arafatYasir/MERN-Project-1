@@ -235,7 +235,7 @@ nav {
 }
 
 .about-wrapper .item-child .texts {
-    width: 785px;
+    max-width: 785px;
 }
 
 .about-wrapper .item-child .texts h1 {
