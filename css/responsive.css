@@ -252,6 +252,57 @@
     .wrapper-form form {
         width: 100%;
     }
+
+    /* ----Footer Section---- */
+    #footer .section-info {
+        width: 90%;
+        max-width: 850px;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .footer-background-image {
+        display: none;
+    }
+
+    #footer .section-title {
+        font-size: 20px;
+    }
+
+    #footer .section-info h3 {
+        font-size: 18px;
+    }
+
+    #footer .section-description {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    #footer .contact-wrapper {
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    #footer .logo {
+        font-size: 20px;
+    }
+
+    #footer .privacy {
+        gap: 10;
+    }
+
+    #footer .privacy a {
+        font-size: 12px;
+        gap: 10px;
+    }
+
+    #footer .icons {
+        gap: 4px;
+    }
+
+    #footer .icons img {
+        width: 24px;
+        height: 24px;
+    }
 }
 
 
@@ -492,6 +543,56 @@
     }
     .wrapper-form form {
         width: 100%;
+    }
+
+    #footer .section-info {
+        width: 90%;
+        max-width: 850px;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .footer-background-image {
+        display: none;
+    }
+
+    #footer .section-title {
+        font-size: 20px;
+    }
+
+    #footer .section-info h3 {
+        font-size: 18px;
+    }
+
+    #footer .section-description {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    #footer .contact-wrapper {
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    #footer .logo {
+        font-size: 20px;
+    }
+
+    #footer .privacy {
+        gap: 10;
+    }
+
+    #footer .privacy a {
+        font-size: 12px;
+        gap: 10px;
+    }
+
+    #footer .icons {
+        gap: 4px;
+    }
+
+    #footer .icons img {
+        width: 24px;
+        height: 24px;
     }
 }
 
@@ -741,6 +842,53 @@
     }
     .wrapper-form form {
         width: 100%;
+    }
+
+    /* ----Footer Section---- */
+
+    #footer .section-info {
+        width: 90%;
+        max-width: 850px;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .footer-background-image {
+        display: none;
+    }
+
+    #footer .section-title {
+        font-size: 24px;
+    }
+
+    #footer .section-info h3 {
+        font-size: 19px;
+    }
+
+    #footer .section-description {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #footer .contact-wrapper {
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    #footer .logo {
+        font-size: 24px;
+    }
+
+    #footer .privacy {
+        gap: 15;
+    }
+
+    #footer .privacy a {
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    #footer .icons {
+        gap: 4px;
     }
 }
 

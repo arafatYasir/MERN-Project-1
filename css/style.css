@@ -686,6 +686,7 @@ nav {
     background: #289BDE;
     padding: 75px 0;
     margin-top: 140px;
+    position: relative;
 }
 
 #footer .section-info {
@@ -705,7 +706,7 @@ nav {
 }
 
 #footer .info-container .section-description {
-    width: 544px;
+    max-width: 544px;
     margin: 0 auto;
 }
 
@@ -795,7 +796,5 @@ nav {
 
 .footer-background-image {
     position: absolute;
-    top: 122px;
+    top: 49px;
 }
-
-
